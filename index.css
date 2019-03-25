@@ -3,9 +3,8 @@ body{font-family: sans-serif;
 	text-transform: capitalize;}
 	div{border: 20px groove red;
 		background-color: yellow;
-		width: 800px
-		height: 800px;
-size: 20%;}
+		width: 20%;
+		height: 800px;}
 		div div{max-width: 565px;
 			height: 410px;
 			border: 15px solid yellow;
