@@ -4,7 +4,7 @@ body{font-family: sans-serif;
 	div{border: 20px groove red;
 		background-color: yellow;
 		width: 20%;
-		height: 10px;}
+		height: 30px;}
 		div div{max-width: 565px;
 			height: 410px;
 			border: 15px solid yellow;
