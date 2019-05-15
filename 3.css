@@ -1,29 +1,30 @@
 .pad{
-    background: white; 
-    color: red;
-    margin: 10px;
-    padding: 10px;
+background: white; 
+color: red;
+margin: 10px;
+padding: 10px;
    }
    
-#center{ text-align: center;
-
+#center{
+text-align: center;
  background-color:#FF0000;
-
  margin:0px;
-
  font-size: 30px;
 }
 
  #leftdown{
  background-color:#FFA500; 
-
  width:50%;
-
  float:left;
-
  text-align: justify;
-
  border: 1px solid black;
  margin-top:10px;
-
+}
+#rightdown{
+ background-color:#00CED1;
+ width:49%;
+ float:right;
+ text-align: justify;
+ border: 1px solid black;
+ margin-top:10px;
 }
